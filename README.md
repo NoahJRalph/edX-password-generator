@@ -6,7 +6,7 @@ This week's edX bootcamp challenge required me to write an application from near
 
 ## Deployment
 
-[Here.](https://NoahJRalph.github.io/edX-password-generator)
+[Here.](https://NoahJRalph.github.io/randomized-password-generator)
 
 ## Notable Features
 
