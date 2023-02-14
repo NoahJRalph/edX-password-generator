@@ -2,7 +2,7 @@
 
 ## Prompt
 
-This week's edX bootcamp challenge required me to write an application from near scratch that enables people to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML (That I was provided) and CSS powered by JavaScript code (that I actually wrote). It will have a clean and polished, responsive user interface that adapts to multiple screen sizes (The CSS for which was provided with the challenge).
+This week's edX bootcamp challenge required me to write an application from near scratch that enables people to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML (That I was provided) and CSS powered by JavaScript code (that I actually wrote). It has a clean and polished, responsive user interface that adapts to multiple screen sizes (The CSS for which was provided with the challenge).
 
 ## Deployment
 
